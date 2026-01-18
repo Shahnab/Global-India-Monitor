@@ -1,0 +1,5 @@
+{
+  "name": "Global Situation Monitor",
+  "description": "A real-time dashboard tracking geopolitical events, US-India-China relations, AI developments, currency performance, and corporate layoffs.",
+  "requestFramePermissions": []
+}
